@@ -37,3 +37,5 @@ A fix could run these internal reads without a user gesture (for example with `r
 - Playwright 1.66.0-alpha-2026-11-14 (also 1.65.1), Chromium 159.0.8154.6
 - Node 24.22.0, npm 11.19.1
 - macOS 27.2.1, arm64
+
+Reported as https://github.com/microsoft/playwright/issues/44119.
